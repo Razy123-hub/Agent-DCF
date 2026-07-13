@@ -1,5 +1,12 @@
 streamlit
+yfinancestreamlit
 yfinance
+pandas
+numpy
+plotly
+openpyxl
+curl_cffi
+
 pandas
 numpy
 plotly
