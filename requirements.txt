@@ -2,7 +2,14 @@ streamlit
 yfinancestreamlit
 yfinance
 pandas
+numpystreamlit
+yfinance
+pandas
 numpy
+plotly
+openpyxl
+curl_cffi==0.7.1
+
 plotly
 openpyxl
 curl_cffi
